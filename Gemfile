@@ -30,6 +30,7 @@ gem 'pg'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'haml'
 
 group :test do
   gem 'sqlite3'
